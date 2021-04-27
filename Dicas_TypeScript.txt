@@ -1,4 +1,0 @@
-Instalando global :
-  npm install -g typescript
-
-
